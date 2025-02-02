@@ -41,7 +41,7 @@ A React Native mobile application featuring authentication, AI chat integration,
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MalejAdam/AIChatApp
 cd AIChatApp
 ```
 
@@ -96,4 +96,4 @@ To test the application:
 
 ## Screenshots
 
-[Add screenshots here]
+[![Demo](https://github.com/MalejAdam/AIChatApp/blob/master/thumbnail.jpg)](https://github.com/MalejAdam/AIChatApp/blob/master/AIChatDemo.mp4)
