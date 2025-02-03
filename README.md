@@ -93,6 +93,12 @@ To test the application:
 └── assets/              # Images and static files
 ```
 
+## Future Improvements
+
+- [ ] Implement speech-to-text
+- [ ] Dark/Light theme toggle
+- [ ] Message persistence
+- [ ] Enhanced file type support
 
 ## Screenshots
 
