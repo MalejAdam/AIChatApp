@@ -37,6 +37,22 @@ A React Native mobile application featuring authentication, AI chat integration,
 - Expo CLI
 - OpenAI API key
 
+## Development Environment Choice
+
+### Why Expo?
+
+I chose Expo for this project to accelerate development speed due to several key benefits:
+
+- **Rapid Setup**: Quick project initialization without complex native build configurations
+- **Simple Deployment**: Easy testing on physical devices through Expo Go app
+- **Cross-Platform**: Seamless development for both iOS and Android
+- **Pre-built Components**: Access to optimized and tested Expo SDK components
+- **Hot Reloading**: Instant preview of changes during development
+- **Development Tools**: Built-in debugging and testing capabilities
+- **OTA Updates**: Easy app updates without App Store submissions
+
+This choice allows me to focus on implementing features rather than dealing with native configuration, significantly reducing development time while maintaining app quality.
+
 ## Installation
 
 1. Clone the repository:
@@ -99,6 +115,13 @@ To test the application:
 - [ ] Dark/Light theme toggle
 - [ ] Message persistence
 - [ ] Enhanced file type support
+- [ ]  Code Quality Enhancements:
+    -  Constants Extraction: Moving hardcoded values to dedicated files
+    -  Type Safety: Centralizing TypeScript types and interfaces
+    -  Utils & Helpers: Adding utility functions for common operations
+    -  Documentation: Adding inline documentation and comments
+
+These improvements will enhance code maintainability, readability, and scalability of the application.
 
 ## Screenshots
 
